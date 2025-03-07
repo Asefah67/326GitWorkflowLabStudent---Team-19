@@ -2,8 +2,8 @@
 
 // TODO: Fix the square root function not displaying
 function calculateSquareRoot(value) {
-    
-    // return the square root of the value
+    return Math.sqrt(value);
+//new line
 }
 
 // TODO: Implement square function
